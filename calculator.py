@@ -159,8 +159,6 @@ def log_num():
 
 
 root = tkinter.Tk()
-
-#root.iconbitmap('favicon.ico')
   
 root.title("Calculator") 
 
